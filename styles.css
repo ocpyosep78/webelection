@@ -1,0 +1,70 @@
+body {
+	background: #efd37c;
+	font: normal Trebuchet, Helvetica, sans-serif;
+    font-family: "Trebuchet MS", sans-serif;
+	/*color: #666666;*/
+}
+#electitle {
+	text-align: center;
+    font-size: larger;
+    font-family: "Trebuchet MS", sans-serif;
+}
+#elecdesc {
+	text-align: center;
+    font-family: "Trebuchet MS", sans-serif;
+}
+#votingformtitle {
+	text-align: center;
+	font-size: larger;
+	font-weight: bold;
+    font-family: "Trebuchet MS", sans-serif;
+}
+#votemsg {
+	text-align: center;
+    font-family: "Trebuchet MS", sans-serif;
+}
+#voteform {
+
+}
+#votetable {
+    font-family: "Trebuchet MS", sans-serif;
+}
+.studentidtd {
+
+}
+#studentid {
+
+}
+#lastnametd {
+
+}
+#lastname {
+
+}
+#firstnametd {
+
+}
+#firstname {
+
+}
+.affliation {
+
+}
+.positiontd {
+	font-weight:bold;
+}
+.novotetd {
+
+}
+.lastname {
+
+}
+.firstname {
+
+}
+.nocon {
+
+}
+.blurbtext {
+
+}
